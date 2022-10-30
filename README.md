@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello I'm Raphael 3rd year college student at PLM and aspring full-stack developer
 
+[![](https://visitcount.itsvg.in/api?id=shineljin&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/scn.lhpr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raphael-enciso-7202a9250/) 
@@ -13,5 +14,5 @@ Hello I'm Raphael 3rd year college student at PLM and aspring full-stack develop
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shineljin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=shineljin&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
