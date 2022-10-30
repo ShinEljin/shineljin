@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Raphael
+Hello I'm Raphael 3rd year college student at PLM and aspring full-stack developer
 
 
 ## 🌐 Socials:
